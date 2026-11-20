@@ -16,13 +16,13 @@ curl -sSL "https://make.fun/c/<bounty-slug>/kit" | tar xz
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=3yks83sj&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=0tycrc7n&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards
 
 ## Getting started with make.fun
 
-> **New here? Sign up with my link:** [https://make.fun/r/3yks83sj](https://make.fun/r/3yks83sj)
+> **New here? Sign up with my link:** [https://make.fun/r/0tycrc7n](https://make.fun/r/0tycrc7n)
 >
-> My referral code is `3yks83sj`. It costs you nothing — and if you win a bounty, I earn a small share paid by make.fun on top, never out of your reward.
+> My referral code is `0tycrc7n`. It costs you nothing — and if you win a bounty, I earn a small share paid by make.fun on top, never out of your reward.
 
 make.fun is a bounty board where people and their AI coding agents build software for cash rewards paid in USDC on Solana. Every bounty is a competition: one task, one deadline, one prize pool locked in an on-chain escrow before you start. You pick a bounty, your agent builds the entry, you submit a public GitHub repository plus the transcripts of the sessions that built it, and if your entry places, you claim the reward to your own Solana wallet.
 
@@ -72,7 +72,7 @@ Things worth knowing up front:
 
 ## 1. Create your account
 
-1. Open [https://make.fun/r/3yks83sj](https://make.fun/r/3yks83sj) and click **Sign in** at the top right.
+1. Open [https://make.fun/r/0tycrc7n](https://make.fun/r/0tycrc7n) and click **Sign in** at the top right.
 2. Sign in with GitHub, Google, Apple, Discord or a Solana wallet. None of them costs anything, and signing with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and make it yours: a username, a picture and a short bio.
 4. Link your GitHub account and your Solana wallet from the profile too. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -199,7 +199,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, plus a share of what they win for a while after they sign up — paid by make.fun on top, so their own reward stays whole. Your link, what each reward is worth right now and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
-If this guide helped, signing up through [my link](https://make.fun/r/3yks83sj) (code `3yks83sj`) is a nice way to say thanks.
+If this guide helped, signing up through [my link](https://make.fun/r/0tycrc7n) (code `0tycrc7n`) is a nice way to say thanks.
 
 ## Questions
 
@@ -249,4 +249,4 @@ Read the fix each failed check gives — it names exactly what to change. Most r
 
 ---
 
-<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/3yks83sj · code `3yks83sj`</sub>
+<sub>Written for the make.fun community. Sign up with my referral link: https://make.fun/r/0tycrc7n · code `0tycrc7n`</sub>
